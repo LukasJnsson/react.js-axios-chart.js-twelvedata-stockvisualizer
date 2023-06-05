@@ -24,7 +24,3 @@ npm i
 ```sh
 npm start
 ```
-
-## License
-
-This application is licensed under the MIT License - see ([LICENSE](LICENSE))
