@@ -1,5 +1,4 @@
 import './styles/App.css';
-import './styles/animation.css';
 import StockVisualizerApplication from './components/StockVisualizerApplication.jsx';
 
 

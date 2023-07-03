@@ -40,5 +40,5 @@ docker build -t react.js-axios-chart.js-twelvedata-stockvisualizer:1.0.0 .
 ```
 ### Create and run container
 ```sh
-docker run -d -p 3000:3000 --env-file .env --name react.js-axios-chart.js-twelvedata-stockvisualizer react.js-axios-chart.js-twelvedata-stockvisualizer:1.0.0
+docker run -d -p 3000:3000 --env-file .env.development --name react.js-axios-chart.js-twelvedata-stockvisualizer react.js-axios-chart.js-twelvedata-stockvisualizer:1.0.0
 ```
